@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 Screenshot
 ----------
-<img src="https://raw.githubusercontent.com/Hendriyawan/easyexoplayer/master/ss_1.png" />
+<img src="https://raw.githubusercontent.com/Hendriyawan/easyexoplayer/master/ss_1.png" width="250" />
 
 License
 -------
