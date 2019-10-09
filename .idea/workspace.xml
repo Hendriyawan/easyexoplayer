@@ -3398,7 +3398,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="11" />
     <option name="y" value="15" />
     <option name="width" value="679" />
@@ -3448,6 +3448,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Apps/android/sdk" />
+    <property name="device.picker.selection" value="Nexus_5_API_26" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -3470,7 +3471,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sample" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="sample" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="sample" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -3538,7 +3539,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="15" width="679" height="737" extended-state="1" />
+    <frame x="11" y="15" width="679" height="737" extended-state="0" />
     <layout>
       <window_info id="Capture Tool" />
       <window_info content_ui="combo" id="Project" weight="0.27828747" />
