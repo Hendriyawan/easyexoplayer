@@ -7,20 +7,25 @@ what is [ExoPlayer](https://exoplayer.dev) ? ExoPlayer is an application level m
 Usage
 -------
 to use this library, you must add the jetpack.io repository.
-```repository {
+```
+repository {
       maven { url "https://jitpack.io" }
-}```
+}
+```
 
 and add dependency
-```dependencies {
+```
+dependencies {
     ....
     implementation 'com.github.Hendriyawan:easyexoplayer:versionrelease'
-}```
+}
+```
 
 Example
 -------
 
-```public class MainActivity extends AppCompatActivity {
+```
+public class MainActivity extends AppCompatActivity {
        private SeekBar seekBarPlayer;
        private ImageButton buttonPlayPause;
        private ImageButton buttonPrevious;
@@ -47,7 +52,8 @@ Example
            player.mediaSourceRawUri(R.raw.some_file_to_play.mp3, true);
 
        }
-}```
+}
+```
 
 
 License
