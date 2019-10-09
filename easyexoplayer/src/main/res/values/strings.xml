@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EasyExoPlayer</string>
+    <string name="playback_channel_name">playback_channel_name</string>
+</resources>
