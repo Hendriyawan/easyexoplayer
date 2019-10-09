@@ -74,5 +74,5 @@ License
 
 Attribution
 -----------
-* Uses [ExoPlayer](https://exoplayer.dev) licensed under [Apache 2.0][Apache 2.0]
-* Uses [support-media-compat](https://developer.android.com/topic/libraries/support-library/features#media-playback) licensed under [Apache 2.0][Apache 2.0]
+* Uses [ExoPlayer](https://exoplayer.dev) licensed under [Apache 2.0](Apache 2.0)
+* Uses [support-media-compat](https://developer.android.com/topic/libraries/support-library/features#media-playback) licensed under [Apache 2.0](Apache 2.0)
