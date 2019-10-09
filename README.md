@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
        private ImageButton buttonNext;
        private TextView textCurrentPosition;
        private TextView textEndPosition;
-       private EaseExoPlayer player;
+       private EasyExoPlayer player;
 
        @Override
        protected void onCreate(Bundle savedInstanceState){
