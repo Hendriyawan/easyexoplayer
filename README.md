@@ -24,7 +24,7 @@ dependencies {
 Example
 -------
 
-```
+``` java
 public class MainActivity extends AppCompatActivity {
        private SeekBar seekBarPlayer;
        private ImageButton buttonPlayPause;
